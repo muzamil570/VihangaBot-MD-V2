@@ -75,22 +75,22 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923495178663"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923495178663"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923115160765"
     },
     
-"BOT_NAME" :{
+"BOT_NAME" :{ waqar
     "description" : "TYPE BOT NAME",
     "required" : true,
   "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
@@ -105,13 +105,13 @@
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/DoVXIeFbX4vLPfTpaTqFEA"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/DoVXIeFbX4vLPfTpaTqFEA"
 },
     
 "PACK_NAME" :{
